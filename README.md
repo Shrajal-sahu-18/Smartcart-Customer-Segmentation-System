@@ -8,7 +8,7 @@ The project uses **Agglomerative Hierarchical Clustering** and provides an inter
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** [Add your deployed app link here]
+🔗 **Streamlit App:** [https://smartcart-segments.streamlit.app/]
 
 ---
 
@@ -386,6 +386,11 @@ Aspiring ML | GenAI | Backend Developer
 - Data Science
 
 ---
+
+--- 
+## 👩‍🏫Teacher
+
+**Shradha Khapra Maam**
 
 ## ⭐ Support
 
