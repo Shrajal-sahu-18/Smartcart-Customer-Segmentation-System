@@ -46,7 +46,7 @@ New Customer Input
 Nearest Cluster
  ↓
 Customer Segment
-
+```
 🎯 Objectives
 Clean and preprocess customer data
 Perform feature engineering
@@ -77,6 +77,7 @@ Customer_Tenure_Days
 Total_spending
 Total_Children
 Living_With
+
 🧹 Data Preprocessing
 1. Data Cleaning
 
